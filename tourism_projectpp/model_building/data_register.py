@@ -3,7 +3,7 @@ from huggingface_hub import HfApi, create_repo
 import os
 
 
-repo_id = "shyam92/TPP2"
+repo_id = "shyam92/TPP2/"
 repo_type = "dataset"
 
 # Initialize API client
