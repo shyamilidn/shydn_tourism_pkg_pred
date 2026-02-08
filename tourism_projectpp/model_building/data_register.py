@@ -7,7 +7,7 @@ repo_id = "shyam92/TPP"
 repo_type = "dataset"
 
 # Initialize API client
-api = HfApi(token=os.getenv("HF_TOKEN"))
+api = HfApi(token=os.getenv("shydnTPkg"))
 
 # Step 1: Check if the space exists
 try:
